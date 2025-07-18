@@ -15,9 +15,9 @@ A fully responsive, feature-rich Expense Tracker built with React.js. Users can 
 ## 📸 Screenshots
 
 ### 🌞 Light Mode
-![Light Mode Screenshot](./public/assets/light.png)
+![Light Mode Screenshot]((https://raw.githubusercontent.com/Rishi9911/Expense-Tracker/main/public/assets/light.png)
 ### 🌙 Dark Mode
-![Dark Mode Screenshot](./public/assets/dark.png)
+![Dark Mode Screenshot]((https://raw.githubusercontent.com/Rishi9911/Expense-Tracker/main/public/assets/light.png)
 
 ## 🛠 Tech Stack
 
